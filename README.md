@@ -1,5 +1,4 @@
-## Hi there, I'm Javier Peñas 👋
-<
+<h1 align="center">Hi there, I'm <a href = "https://www.linkedin.com/in/javierpenas/">Javier Peñas </a> 👋</h1>
 <!--
 
 Here are some ideas to get you started:
